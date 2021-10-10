@@ -1,1 +1,1 @@
-print("Sorry, go away!");
+print("Sorry, go away and fuck yourself");
